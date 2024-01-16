@@ -1,0 +1,32 @@
+.edit-head
+{
+    font-size: 22px;
+    margin-top: 20px;
+}
+.edit-para
+{
+    margin-left: 35px;
+    font-size: 20px;
+}
+.edit-label
+{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.edit-input
+{
+    width: 50%;
+}
+.edit-input-email
+{
+    margin-left: 35px;
+}
+.edit-input-number
+{
+    margin-left: -36px;
+}
+.user-edit-btn
+{
+    width: 50%;
+    margin-left: 390px;
+}
